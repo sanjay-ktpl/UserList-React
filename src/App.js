@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   const [users, setUsers] = useState([
-    { id: 1, name: "Twinkle Panchal", email: "twinkle.panchal@krishtechnolabs.com" }
+    { id: 1, name: "sanjay", email: "sanjay.vya@krishtechnolabs.com" }
   ]);
   const [formData, setFormData] = useState({ name: '', email: '' });
 
